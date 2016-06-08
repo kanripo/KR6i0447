@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:48.775515
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:38
 #+TITLE: 佛說五無返復經
 #+PROPERTY: CBETA_ID T17n0751b
 #+PROPERTY: ID KR6i0447
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 751b
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0447_T_000-0573c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0447_T_001-0573c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-
- 《佛說五無返復經》¶
+《佛說五無返復經》¶
 ¶
 宋居士沮渠京聲譯¶
 
@@ -89,7 +88,7 @@
 
 梵志即往到佛所，稽首佛足作禮，却坐一¶
 面，愁憂低頭默無所說。佛知其意，謂梵志¶
-曰：「何為低頭。愁憂不樂？」
+曰：可為低頭。愁憂不樂？」
 
 梵志白佛言：「所願¶
 不果，違我本心，是故愁憂也。」
